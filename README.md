@@ -1,2 +1,2 @@
-GraphQuest: Exploring and Implementing GraphQL
-GRAPHQL
+# GraphQuest: Exploring and Implementing GraphQL
+## GRAPHQL
